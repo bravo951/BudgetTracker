@@ -1,0 +1,36 @@
+<title>{{userDetail.fullname}}</title>
+<div class="container">
+    <div class="row">
+      
+      <div class="col-4">
+        <ul class="list-group list-group-flush">
+            <li class="list-group-item">{{userDetail.email}}</li>
+            <li class="list-group-item">{{userDetail.joinedOn}}</li>
+        </ul>
+      </div>
+      <div class="col-6">
+        <table class="table">
+            <thead>
+              <tr>
+                <th scope="col">#</th>
+                <th scope="col">Amount</th>
+                <th scope="col">Description</th>
+                <th scope="col">Date</th>
+                <th scope="col">Remarks</th>
+              </tr>
+            </thead>
+            <tbody *ngFor="let item of userDetail.transList; let i=index">
+              <tr>
+                <th scope="row">{{i}}</th>
+                <td>{{item.amount}}</td>
+                <td>{{item.description}}</td>
+                <td>{{item.transDate}}</td>
+                <td>{{item.remarks}}</td>
+              </tr>
+              
+            </tbody>
+          </table>
+        
+      </div>
+    </div>
+  </div>

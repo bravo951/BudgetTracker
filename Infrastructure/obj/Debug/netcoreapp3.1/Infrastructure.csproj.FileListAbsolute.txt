@@ -1,0 +1,13 @@
+D:\vsProjects\BudgetTracker\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+D:\vsProjects\BudgetTracker\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+D:\vsProjects\BudgetTracker\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csprojAssemblyReference.cache
+D:\vsProjects\BudgetTracker\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+D:\vsProjects\BudgetTracker\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+D:\vsProjects\BudgetTracker\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.runtimeconfig.json
+D:\vsProjects\BudgetTracker\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.runtimeconfig.dev.json
+D:\vsProjects\BudgetTracker\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+D:\vsProjects\BudgetTracker\Infrastructure\bin\Debug\netcoreapp3.1\ApplicationCore.dll
+D:\vsProjects\BudgetTracker\Infrastructure\bin\Debug\netcoreapp3.1\ApplicationCore.pdb
+D:\vsProjects\BudgetTracker\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CopyComplete
+D:\vsProjects\BudgetTracker\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+D:\vsProjects\BudgetTracker\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb
